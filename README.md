@@ -1,2 +1,2 @@
-# Sensor_Anomaly_Project
+# SensorAnomalyProject
 osdak
