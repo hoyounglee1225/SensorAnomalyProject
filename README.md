@@ -17,34 +17,23 @@
 ## 분석 환경 및 도구
 
 * Hardware/Server
-  - Ubuntu
-    + Ver 18.04
-  - Windows 10
-    + CPU i7
-    + RAM 16
+  - Ubuntu (Ver 18.04)
+  - Windows (Ver 10 / CPU i7 / RAM 16)
 * Language
-  - Python 3
-    + Ver 3.7.11
+  - Python 3 (Ver 3.7.11)
 * Tools
   - Github
   - Google Drive
 * Development Tools
   - Colab
-  - Jupyter Lab
-    + Ver 2.2.6
+  - Jupyter Lab (Ver 2.2.6)
 * Analysis Library
-  - Matplotlib
-    + Ver 3.2.2
-  - Numpy
-    + Ver 1.19.5
-  - Scikit Learn
-    + Ver 0.22.2
-  - Pandas
-    + Ver 1.1.5
-  - SciPy
-    + Ver 1.4.1
-  - Seaborn
-    + Ver 0.11.1
+  - Matplotlib (Ver 3.2.2)
+  - Numpy (Ver 1.19.5)
+  - Scikit Learn (Ver 0.22.2)
+  - Pandas (Ver 1.1.5)
+  - SciPy (Ver 1.4.1)
+  - Seaborn (Ver 0.11.1)
 
 ## 1.프로젝트 개요
 
